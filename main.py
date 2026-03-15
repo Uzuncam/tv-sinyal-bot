@@ -22,7 +22,7 @@ CHAT_IDS = {
 REPEAT_COUNT    = 5
 REPEAT_INTERVAL = 60
 CHECK_INTERVAL  = 30
-EMAIL_FILTER    = "Alert"
+EMAIL_FILTER    = "Alarm"
 
 processed_ids = set()
 
